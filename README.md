@@ -1,5 +1,5 @@
-#3-Band Equalizer Plugin with Spectrum Analyzer using Modern C++, JUCE Framework
-Key Features:
+3-Band Equalizer Plugin with Spectrum Analyzer using Modern C++, JUCE Framework.
+
 1) 3-Band Equalizer:
 Low-Cut Band: Cuts low frequencies with adjustable steepness.
 High-Cut Band: Removes high frequencies with adjustable steepness.
